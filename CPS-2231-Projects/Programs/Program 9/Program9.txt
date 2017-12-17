@@ -1,0 +1,147 @@
+73 
+
+Hopper 2003 555 Kangaroo 2
+
+Kitty-1 2009 44 Cat 4
+
+Spotty 2005 333 Dog 4
+
+Johnny 2008 111 Cat 4
+
+Danny 2015 433 Dog 4
+
+Striper 2011 432 Sckunk 4
+
+Edward 1995 630 Horse 4
+
+Casper 1998 88 Snake Cold-Blooded
+
+Bootsy 2005 987 Horse 4
+
+Ryanne 2014 21 fish Cold-Blooded
+
+Austin 2015 1500 Monkey 2
+
+William 2009 113 Cat 4
+
+Marya 2013 500 Dog 4
+
+Willy 2012 250 Snake Cold-Blooded
+
+John34 2014 300 Cat 4
+
+Sammy 2014 400 Tiger 4
+
+Annie 2011 20 Bird Warm-Blooded
+
+Sarah 2011 900 Horse 4
+
+Robert 2011 30 Bird Warm-Blooded
+
+Ralphy 2013 50 Chicken 2
+
+Grants 2013 150 Duck 2
+
+Willy 2012 250 Snake Cold-Blooded
+
+Green 2011 800 Horse 4
+
+Claudia 2014 20 Squid Cold-Blooded
+
+Dukely 2014 10 fish Cold-Blooded
+
+Hopper2 2003 575 Kangaroo 2
+
+kitty2 2009 64 Cat 4
+
+Spot2 2005 333 Dog 4
+
+Johnny2 2008 111 Cat 4
+
+Danly 2015 433 Dog 4
+
+Striper2 2011 732 Sckunk 4
+
+Edward2 1995 630 Horse 4
+
+casper2 1998 188 Snake Cold-Blooded
+
+Boots2 2005 487 Horse 4
+
+Ryan2 2014 110 fish Cold-Blooded
+
+Austin2 2015 2500 Monkey 2
+
+William2 2009 213 Cat 4
+
+Mary2 2013 520 Dog 4
+
+Willy2 2012 250 Snake Cold-Blooded
+
+John2 2014 320 Cat 4
+
+Sammy2 2014 410 Tiger 4
+
+Annie2 2011 120 Bird Warm-Blooded
+
+Sarah2 2011 950 Horse 4
+
+Raymond2 2011 130 Bird Warm-Blooded
+
+Raymond2 2013 250 Chicken 2
+
+Grant2 2013 350 Duck 2
+
+Willy2 2012 350 Snake Cold-Blooded
+
+Green2 2011 600 Horse 4
+
+Claudia2 2014 10 Squid Cold-Blooded
+
+Hopper3 2003 575 Kangaroo 2
+
+kitty3 2009 64 Cat 4
+
+Spot3 2005 333 Dog 4
+
+Johnny3 2008 111 Cat 4
+
+Dan3 2015 433 Dog 4
+
+Striper3 2011 732 Sckunk 4
+
+Edward3 1995 630 Horse 4
+
+casper3 1998 188 Snake Cold-Blooded
+
+Boots3 2005 487 Horse 4
+
+Ryan3 2014 110 fish Cold-Blooded
+
+Austin3 2015 2530 Monkey 2
+
+William3 2009 213 Cat 4
+
+Mary3 2013 520 Dog 4
+
+Willy3 2012 250 Snake Cold-Blooded
+
+John3 2014 320 Cat 4
+
+Sammy3 2014 410 Tiger 4
+
+Annie3 2011 120 Bird Warm-Blooded
+
+Sarah3 2011 950 Horse 4
+
+Ray3 2011 130 Bird Warm-Blooded
+
+Ray3 2013 250 Chicken 2
+
+Grant3 2013 350 Duck 2
+
+Willy3 2012 350 Snake Cold-Blooded
+
+Green3 2011 600 Horse 4
+
+Claudia3 2014 15 Squid Cold-Blooded
